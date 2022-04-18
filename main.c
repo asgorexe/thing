@@ -1,5 +1,5 @@
 //P: C Animation!
-//N: Frank "Relic374" Cevasco
+//N: Relic374
 //D: Wed Nov 10, 2021 (updated Fri Dec 24)
 //D: Simple ternimal ASCIIs animation programmed in C!
 
